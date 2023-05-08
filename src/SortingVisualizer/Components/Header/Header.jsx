@@ -7,7 +7,7 @@ export default class Header extends Component {
   render() {
     return (
       <div className="header">
-        <p id="animateText">Sorting Visualizer</p>
+        <p id="animateText">Sorting Analysis</p>
       </div>
     );
   }
