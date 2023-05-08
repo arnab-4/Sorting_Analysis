@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sorting_Analysis/static/css/main.160c211f.chunk.css",
+    "main.js": "/Sorting_Analysis/static/js/main.6b42be5d.chunk.js",
+    "main.js.map": "/Sorting_Analysis/static/js/main.6b42be5d.chunk.js.map",
+    "runtime-main.js": "/Sorting_Analysis/static/js/runtime-main.e34ae2df.js",
+    "runtime-main.js.map": "/Sorting_Analysis/static/js/runtime-main.e34ae2df.js.map",
+    "static/js/2.cb13d714.chunk.js": "/Sorting_Analysis/static/js/2.cb13d714.chunk.js",
+    "static/js/2.cb13d714.chunk.js.map": "/Sorting_Analysis/static/js/2.cb13d714.chunk.js.map",
+    "index.html": "/Sorting_Analysis/index.html",
+    "static/css/main.160c211f.chunk.css.map": "/Sorting_Analysis/static/css/main.160c211f.chunk.css.map",
+    "static/js/2.cb13d714.chunk.js.LICENSE.txt": "/Sorting_Analysis/static/js/2.cb13d714.chunk.js.LICENSE.txt",
+    "static/media/CompletedEffect.b461f47f.mp3": "/Sorting_Analysis/static/media/CompletedEffect.b461f47f.mp3",
+    "static/media/ResetEffect.af1cdbbb.mp3": "/Sorting_Analysis/static/media/ResetEffect.af1cdbbb.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e34ae2df.js",
+    "static/js/2.cb13d714.chunk.js",
+    "static/css/main.160c211f.chunk.css",
+    "static/js/main.6b42be5d.chunk.js"
+  ]
+}
